@@ -1,1 +1,1 @@
-# MONO repo with turbo repo
+# monorepo with turbo repo
